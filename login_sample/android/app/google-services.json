@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777106136532",
+    "project_id": "orderingapp-b8dbc",
+    "storage_bucket": "orderingapp-b8dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777106136532:android:5fc537046aab00086f4a41",
+        "android_client_info": {
+          "package_name": "com.example.login_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777106136532-ts5d68467p6e9fohndmt9ls9cjg6vmut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSLmajRd1BKS-EIKD3TBLx8ftJ2RW31e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777106136532-ts5d68467p6e9fohndmt9ls9cjg6vmut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
